@@ -1,0 +1,5 @@
+# Lint rules for the demo service, read by the CI lint job.
+line-length = 110
+
+[lint]
+select = ["E", "F", "I"]
