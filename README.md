@@ -10,4 +10,4 @@ docker build -t demo-service .
 docker run --rm demo-service
 ```
 
-You should recieve a greeting. Pull requests here are opened by the `github-agent` of the Agent Identity Explorer demo, on behalf of the editor account, through the `ais-github-agent` GitHub app.
+You should receive a greeting. Pull requests here are opened by the `github-agent` of the Agent Identity Explorer demo, on behalf of the editor account, through the `ais-github-agent` GitHub app.
